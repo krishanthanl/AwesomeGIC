@@ -2,8 +2,6 @@
 using AwesomeGIC.Services;
 using AwesomeGIC.Utils;
 using System.Globalization;
-
-
 public class Program
 {
     private static readonly IAccountService accountService = new AccountService();
